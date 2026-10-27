@@ -1,0 +1,601 @@
+subject	prolificID	isAttentive	consent	isFan	gender	age	language	FINISHED	MODE	favClub	STATUS	face	cond	attitude	attitudeRT	contPR	competence	opp1	opp2	framing	perspective	RTbin
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face1	own_loss	negative	1309	-27	-39	Köln	Freiburg	loss	own	fast
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face2	opp_win	positive	1452	54	13	Mainz 05	Stuttgart	win	opponent	fast
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face3	opp_win	negative	2027	-18	-30	Wolfsburg	Hoffenheim	win	opponent	slow
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face4	own_win	negative	1920	16	39	Borussia Dortmund	Bayern München	win	own	fast
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face5	opp_loss	negative	3355	-52	47	Werder Bremen	RB Leipzig	loss	opponent	slow
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face6	own_win	positive	2552	53	42	Borussia Möchengladbach	Augsburg	win	own	slow
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face7	opp_loss	negative	1327	-8	2	St. Pauli	Union Berlin	loss	opponent	fast
+131	69fa4a47314f0ca0f7003236	1	1	1	male	38	1	1	interview	sge	complete	face8	own_loss	positive	2717	-26	10	Hamburg	Bayer Leverkusen	loss	own	slow
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face1	opp_loss	negative	2777	-93	-72	Freiburg	Köln	loss	opponent	slow
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face2	opp_win	positive	2438	88	17	Werder Bremen	Eintracht Frankfurt	win	opponent	fast
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face3	opp_win	positive	1741	92	10	Hoffenheim	Heidenheim	win	opponent	fast
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face4	opp_loss	positive	2766	25	79	Hamburg	Borussia Möchengladbach	loss	opponent	slow
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face5	own_win	negative	3950	-23	55	RB Leipzig	Bayer Leverkusen	win	own	slow
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face6	own_win	positive	2231	48	21	Augsburg	Stuttgart	win	own	fast
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face7	own_loss	negative	1835	-92	-93	Union Berlin	Bayern München	loss	own	fast
+132	6a06133fa5f98a0501c750b9	1	1	1	male	42	1	1	interview	bvb	complete	face8	own_loss	negative	2831	-46	-45	St. Pauli	Mainz 05	loss	own	slow
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face1	opp_win	positive	2481	48	43	Heidenheim	RB Leipzig	win	opponent	fast
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face2	own_win	positive	3333	59	37	Werder Bremen	Borussia Dortmund	win	own	slow
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face3	own_win	positive	2682	83	58	Freiburg	Hamburg	win	own	fast
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face4	own_loss	positive	2410	76	20	Eintracht Frankfurt	Stuttgart	loss	own	fast
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face5	opp_win	positive	3382	51	43	Köln	Wolfsburg	win	opponent	slow
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face6	opp_loss	positive	3118	44	42	Union Berlin	Borussia Möchengladbach	loss	opponent	slow
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face7	opp_loss	positive	2707	55	30	St. Pauli	Hoffenheim	loss	opponent	slow
+133	69ea50ee7c1ff2cb8472de0d	1	1	1	male	35	1	1	interview	fcb	complete	face8	own_loss	positive	2361	78	45	Mainz 05	Bayer Leverkusen	loss	own	fast
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face1	opp_loss	negative	1666	-90	7	Köln	Borussia Möchengladbach	loss	opponent	fast
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face2	own_win	negative	4918	-20	58	Werder Bremen	Stuttgart	win	own	fast
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face3	own_win	positive	2556	50	19	Eintracht Frankfurt	Mainz 05	win	own	fast
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face4	opp_win	positive	5406	72	50	Bayer Leverkusen	RB Leipzig	win	opponent	slow
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face5	opp_win	negative	4269	-36	57	St. Pauli	Union Berlin	win	opponent	fast
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face6	own_loss	negative	9350	-45	25	Wolfsburg	Hoffenheim	loss	own	slow
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face7	opp_loss	positive	8075	15	40	Hamburg	Freiburg	loss	opponent	slow
+134	69c2cb8e4349a3587fe6a09a	1	1	1	male	39	1	1	interview	fcb	complete	face8	own_loss	positive	7007	20	65	Heidenheim	Borussia Dortmund	loss	own	slow
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face1	opp_win	negative	1020	-64	-48	RB Leipzig	Augsburg	win	opponent	fast
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face2	opp_win	positive	3518	-6	14	Werder Bremen	Heidenheim	win	opponent	slow
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face3	own_loss	negative	2599	-10	6	Köln	St. Pauli	loss	own	slow
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face4	opp_loss	positive	1837	62	73	Wolfsburg	Stuttgart	loss	opponent	fast
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face5	own_win	positive	2269	15	53	Mainz 05	Hoffenheim	win	own	fast
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face6	own_loss	negative	5233	11	55	Eintracht Frankfurt	Union Berlin	loss	own	slow
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face7	opp_loss	positive	3727	13	43	Bayern München	Freiburg	loss	opponent	slow
+135	5d6fda2bde432b0019b19ba7	1	1	1	male	59	1	1	interview	bmg	complete	face8	own_win	negative	2300	-1	1	Hamburg	Bayer Leverkusen	win	own	fast
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face1	opp_win	negative	2310	-86	-35	Mainz 05	Augsburg	win	opponent	slow
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face2	own_win	positive	2147	49	51	Union Berlin	Werder Bremen	win	own	slow
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face3	opp_loss	positive	1434	9	-7	Bayern München	Hoffenheim	loss	opponent	fast
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face4	own_loss	positive	1673	24	-22	RB Leipzig	St. Pauli	loss	own	fast
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face5	own_loss	positive	2090	77	49	Köln	Eintracht Frankfurt	loss	own	slow
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face6	own_win	negative	1751	-48	-60	Wolfsburg	Freiburg	win	own	fast
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face7	opp_win	negative	2396	34	47	Hamburg	Stuttgart	win	opponent	slow
+136	69ef3a000f1b6cb7006fa798	1	1	1	male	37	1	1	interview	bvb	complete	face8	opp_loss	positive	1973	43	22	Heidenheim	Bayer Leverkusen	loss	opponent	fast
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face1	opp_loss	negative	2269	-43	-60	Borussia Dortmund	Hamburg	loss	opponent	fast
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face2	opp_win	positive	2378	40	-1	Hoffenheim	Mainz 05	win	opponent	fast
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face3	own_win	negative	5987	-12	-17	Freiburg	Wolfsburg	win	own	slow
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face4	own_win	positive	3935	41	40	Köln	St. Pauli	win	own	slow
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face5	opp_win	negative	3663	-7	4	Heidenheim	RB Leipzig	win	opponent	fast
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face6	own_loss	negative	3464	-7	-13	Bayer Leverkusen	Werder Bremen	loss	own	fast
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face7	own_loss	negative	6928	-6	3	Augsburg	Borussia Möchengladbach	loss	own	slow
+138	6a0acd6435784998938041f1	1	1	1	male	67	1	1	interview	sge	complete	face8	opp_loss	positive	5073	24	23	Bayern München	Stuttgart	loss	opponent	slow
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face1	own_loss	positive	2065	39	76	Hamburg	Augsburg	loss	own	slow
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face2	opp_loss	positive	2460	54	89	Mainz 05	Werder Bremen	loss	opponent	slow
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face3	own_win	positive	1506	82	78	Bayer Leverkusen	Freiburg	win	own	fast
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face4	opp_win	positive	2011	-4	64	Borussia Möchengladbach	Wolfsburg	win	opponent	slow
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face5	opp_win	negative	1611	6	39	Stuttgart	Köln	win	opponent	fast
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face6	opp_loss	negative	1749	-22	69	RB Leipzig	St. Pauli	loss	opponent	fast
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face7	own_win	negative	1534	-5	45	Heidenheim	Union Berlin	win	own	fast
+140	5b648251bd56550001bf31fd	1	1	1	female	54	1	1	interview	fcb	complete	face8	own_loss	negative	2792	-23	58	Hoffenheim	Eintracht Frankfurt	loss	own	slow
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face1	opp_win	negative	1173	-26	-25	Union Berlin	Stuttgart	win	opponent	fast
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face2	own_win	negative	1950	0	-19	St. Pauli	Augsburg	win	own	slow
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face3	opp_loss	positive	1205	81	-15	Köln	Freiburg	loss	opponent	fast
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face4	opp_win	negative	1230	-80	-65	Borussia Dortmund	Eintracht Frankfurt	win	opponent	fast
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face5	own_loss	positive	1562	-12	8	Hoffenheim	Hamburg	loss	own	slow
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face6	own_win	negative	1305	-27	2	Werder Bremen	RB Leipzig	win	own	slow
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face7	own_loss	negative	1040	-63	-33	Bayer Leverkusen	Heidenheim	loss	own	fast
+141	63ba24688ddfd5e20503907d	1	1	1	male	23	1	1	interview	fcb	complete	face8	opp_loss	positive	1927	17	2	Wolfsburg	Mainz 05	loss	opponent	slow
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face1	own_win	positive	1712	6	-5	St. Pauli	Eintracht Frankfurt	win	own	slow
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face2	opp_win	positive	1147	42	55	Stuttgart	Bayer Leverkusen	win	opponent	fast
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face3	opp_win	positive	1137	63	53	Hamburg	Hoffenheim	win	opponent	fast
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face4	opp_loss	positive	2494	-40	3	Augsburg	Werder Bremen	loss	opponent	slow
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face5	own_loss	negative	1164	-87	-45	Heidenheim	Borussia Dortmund	loss	own	fast
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face6	opp_loss	positive	1966	-12	18	Freiburg	Köln	loss	opponent	slow
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face7	own_win	negative	2771	-57	-22	RB Leipzig	Union Berlin	win	own	slow
+142	69c3d7932671bd5579564c48	1	1	1	female	27	1	1	interview	fcb	complete	face8	own_loss	negative	1380	-73	-77	Mainz 05	Wolfsburg	loss	own	fast
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face1	opp_loss	negative	4166	-37	-28	Freiburg	Heidenheim	loss	opponent	slow
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face2	own_win	positive	1365	39	32	Augsburg	Köln	win	own	fast
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face3	own_win	positive	2015	41	60	Wolfsburg	Hoffenheim	win	own	slow
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face4	opp_loss	positive	1865	28	47	Eintracht Frankfurt	Stuttgart	loss	opponent	fast
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face5	own_loss	negative	3100	-38	17	Union Berlin	St. Pauli	loss	own	slow
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face6	opp_win	positive	1750	18	27	Borussia Dortmund	Borussia Möchengladbach	win	opponent	fast
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face7	opp_win	positive	1349	56	23	RB Leipzig	Hamburg	win	opponent	fast
+143	6a077a89debe522cb5874ede	1	1	1	female	28	1	1	interview	fcb	complete	face8	own_loss	negative	3430	-7	5	Bayer Leverkusen	Mainz 05	loss	own	slow
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face1	own_win	positive	1476	43	41	Freiburg	Köln	win	own	slow
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face2	opp_win	positive	2734	-2	-6	Werder Bremen	Mainz 05	win	opponent	slow
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face3	own_loss	negative	1387	-40	2	RB Leipzig	Borussia Dortmund	loss	own	fast
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face4	own_loss	negative	1028	-89	-76	Bayer Leverkusen	Heidenheim	loss	own	fast
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face5	own_win	positive	4767	2	23	Union Berlin	Wolfsburg	win	own	slow
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face6	opp_win	positive	1331	25	19	Augsburg	Borussia Möchengladbach	win	opponent	fast
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face7	opp_loss	negative	1924	-19	-2	Hoffenheim	Hamburg	loss	opponent	slow
+144	6a0626a05691eee999f6c134	1	1	1	male	31	1	1	interview	stp	complete	face8	opp_loss	negative	1017	-77	-53	Bayern München	Stuttgart	loss	opponent	fast
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face1	own_loss	positive	1803	63	49	Borussia Möchengladbach	St. Pauli	loss	own	fast
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face2	opp_loss	positive	2063	62	61	Augsburg	Wolfsburg	loss	opponent	slow
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face3	own_win	positive	1932	76	63	Union Berlin	Eintracht Frankfurt	win	own	fast
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face4	own_win	positive	2003	68	59	Köln	RB Leipzig	win	own	fast
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face5	opp_win	positive	2173	53	71	Heidenheim	Mainz 05	win	opponent	slow
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face6	opp_win	positive	1670	84	53	Stuttgart	Borussia Dortmund	win	opponent	fast
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face7	own_loss	positive	2842	64	62	Werder Bremen	Bayer Leverkusen	loss	own	slow
+146	5bf3199ebe7c7300017b710a	1	1	1	male	43	1	1	interview	fcb	complete	face8	opp_loss	positive	2540	65	69	Freiburg	Hamburg	loss	opponent	slow
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face1	own_loss	negative	1956	-56	-64	St. Pauli	Heidenheim	loss	own	slow
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face2	own_win	negative	2367	-73	-44	Mainz 05	Hamburg	win	own	slow
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face3	opp_win	positive	1362	0	64	Union Berlin	Eintracht Frankfurt	win	opponent	fast
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face4	opp_loss	positive	1708	27	34	Freiburg	Hoffenheim	loss	opponent	slow
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face5	opp_loss	positive	1347	89	87	Borussia Dortmund	RB Leipzig	loss	opponent	fast
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face6	opp_win	positive	1599	13	22	Augsburg	Bayern München	win	opponent	slow
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face7	own_loss	positive	1503	49	40	Borussia Möchengladbach	Stuttgart	loss	own	fast
+147	6a07d15a3056a9ce4e8860a5	1	1	1	male	22	1	1	interview	koe	complete	face8	own_win	positive	1526	15	54	Wolfsburg	Werder Bremen	win	own	fast
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face1	opp_win	negative	2063	-61	-93	Mainz 05	Hamburg	win	opponent	fast
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face2	own_loss	negative	4678	-6	-12	Heidenheim	Stuttgart	loss	own	slow
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face3	own_loss	negative	1705	-69	-63	Bayern München	Union Berlin	loss	own	fast
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face4	opp_win	negative	7939	-35	-20	Augsburg	RB Leipzig	win	opponent	slow
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face5	own_win	positive	7703	53	87	Eintracht Frankfurt	Wolfsburg	win	own	slow
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face6	opp_loss	positive	5887	34	49	Werder Bremen	Borussia Dortmund	loss	opponent	slow
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face7	opp_loss	positive	3785	71	93	Freiburg	Hoffenheim	loss	opponent	fast
+148	697260cd92e71ab8d74fb08e	1	1	1	male	25	1	1	interview	koe	complete	face8	own_win	negative	2026	-29	-26	Borussia Möchengladbach	Bayer Leverkusen	win	own	fast
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face1	opp_win	negative	2027	-40	-29	Hamburg	Stuttgart	win	opponent	fast
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face2	own_loss	negative	4896	-16	-46	Union Berlin	Borussia Möchengladbach	loss	own	slow
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face3	own_loss	positive	4889	5	-14	Heidenheim	Werder Bremen	loss	own	slow
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face4	own_win	positive	2893	20	31	Augsburg	Mainz 05	win	own	slow
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face5	opp_loss	positive	991	33	25	RB Leipzig	Freiburg	loss	opponent	fast
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face6	own_win	positive	1409	34	64	Bayer Leverkusen	Hoffenheim	win	own	fast
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face7	opp_win	negative	1372	4	-9	Bayern München	St. Pauli	win	opponent	fast
+149	6a0ded7d988668f6e4612967	1	1	1	male	41	1	1	interview	bvb	complete	face8	opp_loss	negative	3862	-24	-36	Wolfsburg	Köln	loss	opponent	slow
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face1	own_win	positive	968	51	40	Wolfsburg	Eintracht Frankfurt	win	own	fast
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face2	opp_loss	positive	2452	1	-27	Bayern München	Freiburg	loss	opponent	slow
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face3	own_loss	negative	802	-32	-37	Union Berlin	Borussia Möchengladbach	loss	own	fast
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face4	opp_loss	positive	1490	60	85	Stuttgart	Hoffenheim	loss	opponent	slow
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face5	opp_win	negative	1283	-66	-7	Borussia Dortmund	RB Leipzig	win	opponent	slow
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face6	opp_win	positive	891	52	100	Heidenheim	Köln	win	opponent	fast
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face7	own_loss	positive	1216	16	43	Mainz 05	St. Pauli	loss	own	fast
+150	6a1205d5fc1d3680bc70f40c	1	1	1	male	28	1	1	interview	b04	complete	face8	own_win	negative	1317	-25	-58	Werder Bremen	Augsburg	win	own	slow
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face1	opp_loss	positive	1712	100	100	Augsburg	Hoffenheim	loss	opponent	slow
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face2	own_win	positive	1622	57	78	Union Berlin	Hamburg	win	own	slow
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face3	own_win	positive	1022	75	100	St. Pauli	RB Leipzig	win	own	fast
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face4	own_loss	negative	970	-89	-89	Freiburg	Mainz 05	loss	own	fast
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face5	opp_win	negative	1468	-88	-86	Heidenheim	Stuttgart	win	opponent	slow
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face6	opp_win	negative	1139	-65	-72	Eintracht Frankfurt	Bayern München	win	opponent	fast
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face7	opp_loss	negative	1498	-100	-61	Wolfsburg	Bayer Leverkusen	loss	opponent	slow
+152	5aad4225811b2000016f6ed1	1	1	1	male	37	1	1	interview	bvb	complete	face8	own_loss	positive	792	90	100	Werder Bremen	Köln	loss	own	fast
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face1	opp_loss	positive	17364	8	54	Heidenheim	Freiburg	loss	opponent	fast
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face2	opp_win	positive	14160	98	100	Augsburg	Hamburg	win	opponent	fast
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face3	own_loss	positive	35834	100	74	Werder Bremen	Hoffenheim	loss	own	slow
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face4	own_win	positive	18374	68	81	Stuttgart	Köln	win	own	slow
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face5	own_loss	positive	9699	57	100	Union Berlin	Mainz 05	loss	own	fast
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face6	own_win	positive	12515	30	100	Bayer Leverkusen	Borussia Dortmund	win	own	fast
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face7	opp_win	positive	18281	86	88	Borussia Möchengladbach	RB Leipzig	win	opponent	slow
+153	6a14092dbe4c3319648314db	1	1	1	male	36	1	1	interview	fcb	complete	face8	opp_loss	positive	27272	33	62	Wolfsburg	St. Pauli	loss	opponent	slow
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face1	own_loss	positive	1974	-17	9	Hoffenheim	Augsburg	loss	own	fast
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face2	own_win	positive	9382	10	19	Bayer Leverkusen	Hamburg	win	own	slow
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face3	opp_win	positive	4397	17	13	Wolfsburg	Borussia Möchengladbach	win	opponent	slow
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face4	opp_win	negative	3650	-21	-15	Werder Bremen	Bayern München	win	opponent	slow
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face5	opp_loss	negative	12851	-57	-20	Heidenheim	Union Berlin	loss	opponent	slow
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face6	opp_loss	negative	3208	2	-19	St. Pauli	Köln	loss	opponent	fast
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face7	own_loss	negative	2372	-52	-15	Eintracht Frankfurt	Freiburg	loss	own	fast
+154	6a1742ae83684d8ce8b9f26d	1	1	1	male	29	1	1	interview	bvb	complete	face8	own_win	positive	1416	83	88	Stuttgart	RB Leipzig	win	own	fast
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face1	own_loss	positive	2228	57	88	Werder Bremen	RB Leipzig	loss	own	fast
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face2	opp_win	negative	4715	-39	17	Hoffenheim	Bayer Leverkusen	win	opponent	slow
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face3	own_win	positive	2688	88	85	Freiburg	Eintracht Frankfurt	win	own	slow
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face4	opp_loss	positive	2549	48	64	St. Pauli	Hamburg	loss	opponent	fast
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face5	opp_loss	negative	2066	-48	12	Borussia Möchengladbach	Union Berlin	loss	opponent	fast
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face6	own_loss	negative	2150	-63	-19	Wolfsburg	Mainz 05	loss	own	fast
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face7	opp_win	positive	2728	61	48	Stuttgart	Heidenheim	win	opponent	slow
+155	69e629776a066d03d39d3da2	1	1	1	male	18	1	1	interview	fcb	complete	face8	own_win	positive	3399	77	32	Augsburg	Köln	win	own	slow
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face1	own_win	positive	7572	21	8	Freiburg	Augsburg	win	own	slow
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face2	own_loss	positive	1596	18	25	Bayern München	Eintracht Frankfurt	loss	own	slow
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face3	own_win	positive	1256	25	2	Werder Bremen	Borussia Dortmund	win	own	fast
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face4	opp_win	positive	1255	26	23	Hoffenheim	St. Pauli	win	opponent	fast
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face5	opp_loss	positive	2162	11	-12	Hamburg	Heidenheim	loss	opponent	slow
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face6	opp_loss	negative	930	-22	-5	Bayer Leverkusen	Mainz 05	loss	opponent	fast
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face7	opp_win	negative	1618	-17	-20	Borussia Möchengladbach	Wolfsburg	win	opponent	slow
+156	6a0c685b048972fa387fcc57	1	1	1	female	25	1	1	interview	koe	complete	face8	own_loss	negative	674	-37	15	Union Berlin	Stuttgart	loss	own	fast
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face1	own_win	positive	1792	43	33	Werder Bremen	Union Berlin	win	own	fast
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face2	own_win	positive	1345	43	32	RB Leipzig	Augsburg	win	own	fast
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face3	own_loss	positive	2811	28	61	Hoffenheim	Borussia Dortmund	loss	own	slow
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face4	opp_loss	negative	2129	-59	-58	Eintracht Frankfurt	Mainz 05	loss	opponent	slow
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face5	opp_win	positive	1860	69	50	St. Pauli	Köln	win	opponent	slow
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face6	opp_loss	positive	2280	43	25	Heidenheim	Freiburg	loss	opponent	slow
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face7	own_loss	negative	1411	-58	-44	Wolfsburg	Bayern München	loss	own	fast
+157	69bedbf9f30118078bfec534	1	1	1	female	22	1	1	interview	hsv	complete	face8	opp_win	negative	1205	-53	-9	Bayer Leverkusen	Borussia Möchengladbach	win	opponent	fast
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face1	own_win	negative	39851	-59	31	Freiburg	Borussia Möchengladbach	win	own	slow
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face2	opp_win	negative	20866	-50	21	Wolfsburg	Hoffenheim	win	opponent	fast
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face3	opp_loss	positive	20724	23	38	Hamburg	Werder Bremen	loss	opponent	fast
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face4	opp_win	positive	23707	35	33	Heidenheim	St. Pauli	win	opponent	slow
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face5	own_win	positive	29584	39	38	Bayer Leverkusen	RB Leipzig	win	own	slow
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face6	own_loss	negative	19082	-51	38	Eintracht Frankfurt	Augsburg	loss	own	fast
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face7	own_loss	negative	17380	-61	28	Bayern München	Union Berlin	loss	own	fast
+158	69d2d75d48e1edb4d243c0ca	1	1	1	male	42	1	1	interview	bvb	complete	face8	opp_loss	negative	26388	-38	43	Stuttgart	Mainz 05	loss	opponent	slow
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face1	own_win	positive	4257	28	15	Eintracht Frankfurt	Augsburg	win	own	slow
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face2	opp_loss	positive	2996	73	21	Heidenheim	RB Leipzig	loss	opponent	fast
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face3	opp_win	positive	3521	43	14	Werder Bremen	Borussia Möchengladbach	win	opponent	fast
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face4	own_win	positive	4072	73	100	Freiburg	Union Berlin	win	own	slow
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face5	own_loss	positive	3201	36	87	Köln	Mainz 05	loss	own	fast
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face6	opp_win	positive	3736	56	53	Hoffenheim	Bayer Leverkusen	win	opponent	slow
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face7	own_loss	negative	4049	-52	-17	Hamburg	Wolfsburg	loss	own	slow
+163	6a067fc6ec0b6c82d21a938b	1	1	1	male	56	1	1	interview	fcb	complete	face8	opp_loss	negative	3099	-89	-67	Stuttgart	St. Pauli	loss	opponent	fast
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face1	opp_loss	positive	2252	33	9	RB Leipzig	Bayern München	loss	opponent	slow
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face2	opp_win	negative	1591	-64	-83	Wolfsburg	St. Pauli	win	opponent	fast
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face3	own_loss	negative	1794	-58	-72	Borussia Möchengladbach	Augsburg	loss	own	slow
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face4	own_loss	positive	2026	-36	-30	Hoffenheim	Freiburg	loss	own	slow
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face5	own_win	positive	1137	70	44	Union Berlin	Werder Bremen	win	own	fast
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face6	own_win	positive	1768	53	50	Mainz 05	Köln	win	own	fast
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face7	opp_loss	positive	1258	72	100	Bayer Leverkusen	Hamburg	loss	opponent	fast
+165	69fcba1933850c6cce62ef70	1	1	1	female	25	1	1	interview	sge	complete	face8	opp_win	negative	2997	-17	-27	Heidenheim	Borussia Dortmund	win	opponent	slow
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face1	own_loss	positive	5246	26	-48	Hoffenheim	Werder Bremen	loss	own	slow
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face2	opp_loss	positive	2001	70	84	Eintracht Frankfurt	Hamburg	loss	opponent	slow
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face3	opp_win	positive	1930	98	100	RB Leipzig	St. Pauli	win	opponent	fast
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face4	opp_win	positive	1596	100	100	Union Berlin	Köln	win	opponent	fast
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face5	own_win	negative	2167	-100	66	Mainz 05	Bayer Leverkusen	win	own	slow
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face6	own_win	negative	1790	-100	93	Freiburg	Wolfsburg	win	own	fast
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face7	opp_loss	negative	1856	-22	-1	Augsburg	Heidenheim	loss	opponent	fast
+166	6a071613475a34b8b9d5fcf2	1	1	1	female	55	1	1	interview	fcb	complete	face8	own_loss	negative	3872	59	86	Borussia Dortmund	Borussia Möchengladbach	loss	own	slow
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face1	opp_win	negative	1496	-65	7	Hamburg	Union Berlin	win	opponent	fast
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face2	own_loss	negative	3032	-57	3	Heidenheim	RB Leipzig	loss	own	slow
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face3	opp_win	positive	5960	15	20	Köln	Borussia Dortmund	win	opponent	slow
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face4	opp_loss	positive	1560	1	37	Mainz 05	Eintracht Frankfurt	loss	opponent	fast
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face5	opp_loss	positive	1551	16	23	Hoffenheim	Augsburg	loss	opponent	fast
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face6	own_win	positive	1837	53	62	Werder Bremen	Freiburg	win	own	fast
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face7	own_loss	positive	2584	53	15	Stuttgart	St. Pauli	loss	own	slow
+167	6a09fae94f0d16af4f879dd5	1	1	1	male	21	1	1	interview	fcb	complete	face8	own_win	positive	4146	28	13	Bayer Leverkusen	Wolfsburg	win	own	slow
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face1	opp_win	negative	1619	-100	-57	Augsburg	Borussia Dortmund	win	opponent	slow
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face2	opp_loss	positive	1306	8	43	St. Pauli	Bayer Leverkusen	loss	opponent	fast
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face3	own_win	positive	1393	56	17	Borussia Möchengladbach	Mainz 05	win	own	fast
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face4	own_win	negative	1358	43	24	Hamburg	Wolfsburg	win	own	fast
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face5	own_loss	negative	1613	-59	-40	Union Berlin	Hoffenheim	loss	own	slow
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face6	opp_loss	positive	1527	42	20	Freiburg	Werder Bremen	loss	opponent	slow
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face7	own_loss	negative	1513	-70	18	Heidenheim	Stuttgart	loss	own	fast
+168	6a0c2a35dd9e8e2ccb0fabce	1	1	1	male	23	1	1	interview	fcb	complete	face8	opp_win	positive	1813	5	27	Eintracht Frankfurt	Köln	win	opponent	slow
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face1	opp_win	negative	2523	-39	-24	Heidenheim	Bayern München	win	opponent	fast
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face2	own_loss	positive	3977	48	58	Stuttgart	Eintracht Frankfurt	loss	own	slow
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face3	own_win	positive	3016	71	11	Borussia Möchengladbach	RB Leipzig	win	own	fast
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face4	own_loss	positive	4833	49	31	Wolfsburg	Augsburg	loss	own	slow
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face5	opp_win	positive	4098	23	50	Hoffenheim	St. Pauli	win	opponent	slow
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face6	opp_loss	negative	3408	-32	-22	Hamburg	Mainz 05	loss	opponent	fast
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face7	own_win	negative	4926	-7	74	Werder Bremen	Freiburg	win	own	slow
+169	696a83ff9b7d691736352b1d	1	1	1	male	35	1	1	interview	bvb	complete	face8	opp_loss	negative	3938	-31	53	Bayer Leverkusen	Köln	loss	opponent	fast
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face1	own_loss	negative	4017	-61	-51	Stuttgart	Köln	loss	own	fast
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face2	opp_loss	positive	13047	11	13	Hoffenheim	Borussia Möchengladbach	loss	opponent	fast
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face3	opp_win	positive	35405	22	8	Union Berlin	Mainz 05	win	opponent	slow
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face4	opp_win	negative	35908	-14	21	Freiburg	RB Leipzig	win	opponent	slow
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face5	opp_loss	negative	32688	-58	-18	Bayer Leverkusen	Heidenheim	loss	opponent	slow
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face6	own_loss	negative	3209	-25	13	Bayern München	Wolfsburg	loss	own	fast
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face7	own_win	positive	13321	-47	3	Eintracht Frankfurt	Hamburg	win	own	slow
+170	69baa42ffff23b191e895adc	1	1	1	male	53	1	1	interview	bvb	complete	face8	own_win	negative	3345	-46	-27	Augsburg	St. Pauli	win	own	fast
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face1	own_loss	positive	1367	6	-2	Wolfsburg	Freiburg	loss	own	slow
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face2	opp_win	positive	1115	21	15	Augsburg	Borussia Möchengladbach	win	opponent	fast
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face3	own_win	positive	1079	67	48	Stuttgart	Bayer Leverkusen	win	own	fast
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face4	opp_loss	negative	1425	-55	-32	Mainz 05	Werder Bremen	loss	opponent	slow
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face5	own_win	negative	2375	-17	0	RB Leipzig	Eintracht Frankfurt	win	own	slow
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face6	opp_loss	negative	992	-23	-27	Heidenheim	St. Pauli	loss	opponent	fast
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face7	own_loss	negative	1162	-22	-16	Union Berlin	Köln	loss	own	fast
+173	5caa1d2a4be4c60001efca92	1	1	1	female	31	1	1	interview	fcb	complete	face8	opp_win	negative	1213	-35	-21	Borussia Dortmund	Hoffenheim	win	opponent	slow
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face1	opp_win	positive	1239	70	50	Hoffenheim	Bayer Leverkusen	win	opponent	slow
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face2	opp_loss	negative	945	28	38	Wolfsburg	Hamburg	loss	opponent	fast
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face3	own_loss	positive	2160	38	19	Heidenheim	RB Leipzig	loss	own	slow
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face4	own_win	positive	850	82	99	Union Berlin	Werder Bremen	win	own	fast
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face5	opp_loss	positive	983	82	54	Mainz 05	Borussia Möchengladbach	loss	opponent	fast
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face6	opp_win	positive	1770	39	77	Borussia Dortmund	St. Pauli	win	opponent	slow
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face7	own_win	positive	1058	98	93	Augsburg	Eintracht Frankfurt	win	own	fast
+175	6a0bc2aa8205baea7da65438	1	1	1	male	19	1	1	interview	koe	complete	face8	own_loss	negative	1520	12	31	Stuttgart	Bayern München	loss	own	slow
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face1	opp_loss	positive	2628	61	52	Wolfsburg	Borussia Dortmund	loss	opponent	slow
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face2	opp_win	positive	4003	18	-10	Augsburg	Hamburg	win	opponent	slow
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face3	opp_loss	positive	3310	7	27	Köln	Bayern München	loss	opponent	slow
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face4	own_win	positive	2473	78	11	Stuttgart	Eintracht Frankfurt	win	own	fast
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face5	own_loss	negative	1125	-62	2	RB Leipzig	St. Pauli	loss	own	fast
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face6	own_win	positive	1784	87	43	Union Berlin	Borussia Möchengladbach	win	own	fast
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face7	own_loss	negative	1499	-81	-93	Bayer Leverkusen	Heidenheim	loss	own	fast
+177	5ea734aec721ae103213635a	1	1	1	male	39	1	1	interview	svw	complete	face8	opp_win	negative	4881	-25	-45	Freiburg	Mainz 05	win	opponent	slow
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face1	opp_win	negative	4171	-58	-100	Werder Bremen	Bayern München	win	opponent	slow
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face2	opp_loss	positive	1539	-30	-1	Hamburg	Freiburg	loss	opponent	fast
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face3	own_win	negative	2054	-45	-43	Borussia Dortmund	Bayer Leverkusen	win	own	slow
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face4	opp_win	positive	2770	100	94	Heidenheim	Mainz 05	win	opponent	slow
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face5	opp_loss	positive	2022	41	100	Borussia Möchengladbach	Union Berlin	loss	opponent	fast
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face6	own_win	positive	1754	81	80	Stuttgart	Köln	win	own	fast
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face7	own_loss	negative	1240	-100	14	RB Leipzig	Hoffenheim	loss	own	fast
+178	6a0b2be908aa4ddba982beb6	1	1	1	male	20	1	1	interview	sge	complete	face8	own_loss	negative	2052	-92	58	Augsburg	St. Pauli	loss	own	slow
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face1	own_win	negative	1370	-62	-30	Eintracht Frankfurt	Mainz 05	win	own	slow
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face2	own_loss	positive	1324	33	48	Bayer Leverkusen	Heidenheim	loss	own	slow
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face3	opp_win	positive	1056	56	63	Werder Bremen	St. Pauli	win	opponent	fast
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face4	own_win	negative	3705	-7	-70	Stuttgart	Wolfsburg	win	own	slow
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face5	own_loss	positive	1105	83	60	Union Berlin	Augsburg	loss	own	fast
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face6	opp_win	positive	1770	41	39	Hoffenheim	RB Leipzig	win	opponent	slow
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face7	opp_loss	negative	1176	-80	-71	Bayern München	Borussia Dortmund	loss	opponent	fast
+179	6a117f1a7f48d253af093458	1	1	1	male	28	1	1	interview	hsv	complete	face8	opp_loss	negative	1293	-52	-42	Borussia Möchengladbach	Köln	loss	opponent	fast
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face1	opp_loss	positive	18386	38	53	Stuttgart	Augsburg	loss	opponent	slow
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face2	own_win	positive	3160	8	9	Heidenheim	Bayern München	win	own	slow
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face3	opp_win	positive	4172	10	17	Freiburg	Union Berlin	win	opponent	slow
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face4	own_loss	positive	2987	25	34	RB Leipzig	Mainz 05	loss	own	slow
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face5	own_win	positive	1571	50	29	Borussia Dortmund	Hoffenheim	win	own	fast
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face6	opp_win	positive	2657	12	28	Werder Bremen	Bayer Leverkusen	win	opponent	fast
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face7	own_loss	negative	1607	-22	-6	St. Pauli	Borussia Möchengladbach	loss	own	fast
+180	6918cd2912715306aa7130fa	1	1	1	male	45	1	1	interview	vfl	complete	face8	opp_loss	positive	2660	44	41	Köln	Eintracht Frankfurt	loss	opponent	fast
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face1	own_win	positive	1207	61	-59	Köln	Werder Bremen	win	own	fast
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face2	opp_win	negative	1257	38	-30	RB Leipzig	Mainz 05	win	opponent	slow
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face3	own_loss	negative	2475	-27	-53	Union Berlin	Augsburg	loss	own	slow
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face4	opp_loss	positive	1012	41	78	Bayer Leverkusen	Wolfsburg	loss	opponent	fast
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face5	opp_win	positive	1902	-4	55	Eintracht Frankfurt	Borussia Möchengladbach	win	opponent	slow
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face6	opp_loss	positive	2347	-3	-27	St. Pauli	Freiburg	loss	opponent	slow
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face7	own_win	negative	993	-27	-71	Hamburg	Stuttgart	win	own	fast
+181	6a0a1221897e16bf61c512d8	1	1	1	female	40	1	1	interview	fcb	complete	face8	own_loss	negative	959	1	37	Borussia Dortmund	Heidenheim	loss	own	fast
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face1	opp_loss	positive	1654	92	76	Werder Bremen	Borussia Möchengladbach	loss	opponent	slow
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face2	opp_win	positive	1578	-50	-37	Wolfsburg	Borussia Dortmund	win	opponent	slow
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face3	own_win	negative	1480	-40	38	Eintracht Frankfurt	Stuttgart	win	own	fast
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face4	own_win	negative	2287	24	30	St. Pauli	Freiburg	win	own	slow
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face5	opp_loss	positive	1214	73	65	Mainz 05	Heidenheim	loss	opponent	fast
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face6	opp_win	negative	3264	-44	-28	Hamburg	Köln	win	opponent	slow
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face7	own_loss	negative	1457	-76	-95	Augsburg	Hoffenheim	loss	own	fast
+182	5ea95e05e3953d0493df4d55	1	1	1	male	24	1	1	interview	fcb	complete	face8	own_loss	negative	1543	19	-2	RB Leipzig	Union Berlin	loss	own	fast
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face1	opp_loss	negative	2387	-8	27	Bayern München	Borussia Möchengladbach	loss	opponent	fast
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face2	opp_win	positive	2339	48	28	Eintracht Frankfurt	Wolfsburg	win	opponent	fast
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face3	own_win	positive	3010	48	19	Augsburg	Köln	win	own	slow
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face4	opp_loss	positive	2424	25	2	Hamburg	Union Berlin	loss	opponent	slow
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face5	opp_win	positive	4104	29	-6	Freiburg	Heidenheim	win	opponent	slow
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face6	own_loss	negative	1756	-46	30	St. Pauli	Borussia Dortmund	loss	own	fast
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face7	own_win	negative	2627	-34	16	Bayer Leverkusen	RB Leipzig	win	own	slow
+183	6a0c37a984a8c79304c50061	1	1	1	male	23	1	1	interview	vfb	complete	face8	own_loss	negative	1758	-74	28	Mainz 05	Werder Bremen	loss	own	fast
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face1	opp_loss	negative	1883	-87	-37	Wolfsburg	Hamburg	loss	opponent	fast
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face2	opp_loss	negative	3498	-62	13	Eintracht Frankfurt	Bayer Leverkusen	loss	opponent	slow
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face3	opp_win	negative	221	47	30	Heidenheim	RB Leipzig	win	opponent	fast
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face4	own_loss	positive	1743	90	55	St. Pauli	Werder Bremen	loss	own	fast
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face5	opp_win	negative	1848	-12	85	Hoffenheim	Stuttgart	win	opponent	fast
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face6	own_win	positive	3080	41	64	Union Berlin	Borussia Dortmund	win	own	slow
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face7	own_win	positive	2782	8	-57	Augsburg	Borussia Möchengladbach	win	own	slow
+184	6a0867dcee0c8a578d30d25a	1	1	1	male	25	1	1	interview	fcb	complete	face8	own_loss	positive	5439	0	31	Mainz 05	Freiburg	loss	own	slow
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face1	own_win	positive	14299	37	-5	Wolfsburg	Mainz 05	win	own	slow
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face2	own_win	positive	5199	59	9	Freiburg	Bayern München	win	own	fast
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face3	own_loss	positive	7574	-3	9	Stuttgart	Werder Bremen	loss	own	fast
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face4	opp_loss	positive	13250	44	32	St. Pauli	Hoffenheim	loss	opponent	slow
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face5	own_loss	negative	17020	-38	3	Köln	Heidenheim	loss	own	slow
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face6	opp_win	negative	10611	-72	-51	Bayer Leverkusen	Union Berlin	win	opponent	fast
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face7	opp_loss	negative	11455	-16	38	Eintracht Frankfurt	Borussia Möchengladbach	loss	opponent	slow
+185	68c04d66c4727339f9447d8a	1	1	1	male	20	1	1	interview	bvb	complete	face8	opp_win	negative	7771	-60	-55	Hamburg	Augsburg	win	opponent	fast
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face1	opp_loss	negative	1911	-37	-14	Köln	Stuttgart	loss	opponent	fast
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face2	opp_win	negative	2721	-36	23	Freiburg	Bayer Leverkusen	win	opponent	slow
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face3	own_win	negative	4815	-58	-4	Werder Bremen	Borussia Dortmund	win	own	slow
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face4	own_loss	positive	2257	56	26	Eintracht Frankfurt	Hamburg	loss	own	fast
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face5	own_loss	positive	1401	28	51	Hoffenheim	Heidenheim	loss	own	fast
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face6	opp_loss	negative	2622	-1	19	Mainz 05	Augsburg	loss	opponent	fast
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face7	own_win	negative	2858	10	32	St. Pauli	Union Berlin	win	own	slow
+186	637f7d52d1a517e820233f7a	1	1	1	male	33	1	1	interview	fcb	complete	face8	opp_win	negative	4330	-12	-20	Wolfsburg	Borussia Möchengladbach	win	opponent	slow
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face1	opp_loss	positive	1337	1	58	Bayer Leverkusen	Heidenheim	loss	opponent	fast
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face2	own_win	negative	3313	-1	32	Borussia Dortmund	Eintracht Frankfurt	win	own	slow
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face3	opp_loss	positive	5181	6	44	Freiburg	Werder Bremen	loss	opponent	slow
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face4	own_loss	positive	2113	1	55	Hoffenheim	Stuttgart	loss	own	fast
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face5	opp_win	positive	1326	2	34	RB Leipzig	Union Berlin	win	opponent	fast
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face6	own_loss	positive	2665	12	47	Augsburg	St. Pauli	loss	own	slow
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face7	own_win	negative	1419	0	78	Köln	Borussia Möchengladbach	win	own	fast
+187	691e2586420d432289b3f85a	1	1	1	male	22	1	1	interview	fcb	complete	face8	opp_win	negative	3162	-1	68	Hamburg	Mainz 05	win	opponent	slow
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face1	opp_loss	positive	2265	4	32	Freiburg	RB Leipzig	loss	opponent	slow
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face2	own_loss	positive	924	-33	-41	Heidenheim	Werder Bremen	loss	own	fast
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face3	opp_win	positive	1048	72	45	Bayer Leverkusen	Union Berlin	win	opponent	fast
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face4	own_win	positive	1077	-46	-60	Borussia Möchengladbach	Hamburg	win	own	fast
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face5	own_loss	negative	1362	-90	-83	Mainz 05	Borussia Dortmund	loss	own	fast
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face6	opp_loss	positive	2255	22	-1	Augsburg	Eintracht Frankfurt	loss	opponent	slow
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face7	opp_win	negative	3322	-21	-39	Hoffenheim	Wolfsburg	win	opponent	slow
+188	6a05a718f31d7e9ffffd9eae	1	1	1	male	44	1	1	interview	koe	complete	face8	own_win	negative	5729	-80	3	Bayern München	St. Pauli	win	own	slow
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face1	opp_loss	positive	1192	55	52	Bayer Leverkusen	Augsburg	loss	opponent	fast
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face2	own_win	positive	2013	64	53	Borussia Dortmund	RB Leipzig	win	own	slow
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face3	own_loss	positive	1775	77	38	Heidenheim	Hamburg	loss	own	fast
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face4	own_win	positive	1036	58	53	Bayern München	Borussia Möchengladbach	win	own	fast
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face5	own_loss	negative	2271	-48	-7	Hoffenheim	Köln	loss	own	slow
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face6	opp_loss	positive	1186	2	12	St. Pauli	Union Berlin	loss	opponent	fast
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face7	opp_win	positive	1794	69	7	Mainz 05	Eintracht Frankfurt	win	opponent	slow
+189	69d3b96dc404cc9700a4f6ba	1	1	1	female	34	1	1	interview	svw	complete	face8	opp_win	negative	1864	-17	-22	Freiburg	Wolfsburg	win	opponent	slow
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face1	own_loss	negative	1785	-57	27	St. Pauli	Borussia Möchengladbach	loss	own	fast
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face2	own_loss	negative	1172	-32	14	Bayern München	RB Leipzig	loss	own	fast
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face3	opp_win	negative	2440	-26	30	Köln	Borussia Dortmund	win	opponent	slow
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face4	opp_loss	positive	1947	53	83	Bayer Leverkusen	Hoffenheim	loss	opponent	slow
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face5	own_win	positive	1341	40	68	Freiburg	Wolfsburg	win	own	fast
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face6	opp_win	positive	1412	39	22	Werder Bremen	Mainz 05	win	opponent	fast
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face7	opp_loss	negative	2619	-7	29	Stuttgart	Heidenheim	loss	opponent	slow
+190	63f6216fd56701af4b7188f4	1	1	1	male	33	1	1	interview	hsv	complete	face8	own_win	negative	2641	-9	31	Union Berlin	Augsburg	win	own	slow
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face1	opp_loss	positive	1240	42	5	RB Leipzig	Heidenheim	loss	opponent	fast
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face2	opp_win	positive	1453	1	-1	St. Pauli	Hoffenheim	win	opponent	slow
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face3	own_loss	positive	1248	64	15	Bayer Leverkusen	Mainz 05	loss	own	fast
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face4	own_loss	positive	1087	16	11	Borussia Möchengladbach	Stuttgart	loss	own	fast
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face5	opp_win	negative	1488	-60	-9	Werder Bremen	Köln	win	opponent	slow
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face6	own_win	positive	1263	27	-8	Freiburg	Union Berlin	win	own	slow
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face7	own_win	positive	1326	-64	11	Hamburg	Eintracht Frankfurt	win	own	slow
+192	68b07473f89e55eea4d296a2	1	1	1	male	34	1	1	interview	fcb	complete	face8	opp_loss	negative	1176	-34	6	Borussia Dortmund	Wolfsburg	loss	opponent	fast
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face1	own_win	positive	1465	92	70	Bayern München	Köln	win	own	fast
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face2	own_loss	negative	1911	-7	6	Augsburg	Wolfsburg	loss	own	slow
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face3	opp_loss	negative	1893	-42	-7	Stuttgart	Bayer Leverkusen	loss	opponent	slow
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face4	opp_loss	positive	1552	58	67	St. Pauli	RB Leipzig	loss	opponent	fast
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face5	own_win	positive	1080	77	40	Union Berlin	Hoffenheim	win	own	fast
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face6	opp_win	negative	1815	-49	39	Freiburg	Borussia Möchengladbach	win	opponent	slow
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face7	own_loss	positive	1794	52	47	Werder Bremen	Borussia Dortmund	loss	own	fast
+193	5e6c965de6c65a24727e1d08	1	1	1	male	35	1	1	interview	hsv	complete	face8	opp_win	positive	2568	7	34	Mainz 05	Eintracht Frankfurt	win	opponent	slow
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face1	opp_loss	positive	958	37	20	Wolfsburg	RB Leipzig	loss	opponent	fast
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face2	own_win	positive	1025	30	15	Heidenheim	Bayer Leverkusen	win	own	fast
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face3	own_win	positive	1140	46	10	St. Pauli	Union Berlin	win	own	slow
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face4	opp_win	negative	1336	-32	37	Eintracht Frankfurt	Freiburg	win	opponent	slow
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face5	own_loss	negative	1098	-31	45	Borussia Möchengladbach	Augsburg	loss	own	fast
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face6	opp_loss	positive	1209	37	-21	Stuttgart	Köln	loss	opponent	slow
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face7	opp_win	positive	1631	14	-36	Bayern München	Mainz 05	win	opponent	slow
+195	6153d9d6f7dc5d0934da7885	1	1	1	male	24	1	1	interview	bvb	complete	face8	own_loss	negative	1081	-41	-39	Hamburg	Werder Bremen	loss	own	fast
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face1	opp_loss	negative	1997	-55	8	Hoffenheim	Eintracht Frankfurt	loss	opponent	slow
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face2	opp_loss	positive	1459	53	58	Stuttgart	Heidenheim	loss	opponent	fast
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face3	own_win	positive	1129	68	87	Bayern München	Bayer Leverkusen	win	own	fast
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face4	own_loss	positive	2431	4	18	Union Berlin	RB Leipzig	loss	own	slow
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face5	own_loss	positive	2878	2	-23	Werder Bremen	Hamburg	loss	own	slow
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face6	opp_win	positive	1503	55	44	Wolfsburg	Köln	win	opponent	slow
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face7	own_win	positive	1484	18	-24	Augsburg	Borussia Möchengladbach	win	own	fast
+196	5962799cb752840001ca478b	1	1	1	male	39	1	1	interview	bvb	complete	face8	opp_win	positive	762	30	23	Mainz 05	St. Pauli	win	opponent	fast
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face1	own_win	positive	3647	-90	-47	RB Leipzig	Mainz 05	win	own	slow
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face2	own_loss	positive	1985	-36	42	Hoffenheim	Freiburg	loss	own	fast
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face3	opp_loss	negative	3201	-23	30	Eintracht Frankfurt	Werder Bremen	loss	opponent	slow
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face4	opp_win	negative	2425	85	85	Bayer Leverkusen	Borussia Möchengladbach	win	opponent	slow
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face5	own_loss	positive	1206	60	92	Hamburg	St. Pauli	loss	own	fast
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face6	opp_win	positive	1333	68	79	Wolfsburg	Union Berlin	win	opponent	fast
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face7	opp_loss	positive	2163	74	100	Köln	Stuttgart	loss	opponent	slow
+197	69d7d4dc871a33cb972e8504	1	1	1	male	28	1	1	interview	fcb	complete	face8	own_win	negative	1341	-51	0	Heidenheim	Borussia Dortmund	win	own	fast
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face1	own_loss	negative	1285	-49	17	Freiburg	Eintracht Frankfurt	loss	own	fast
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face2	opp_loss	positive	1147	72	47	Bayer Leverkusen	Bayern München	loss	opponent	fast
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face3	own_win	positive	1523	58	74	Borussia Dortmund	Wolfsburg	win	own	fast
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face4	opp_win	positive	2159	33	52	Borussia Möchengladbach	Hamburg	win	opponent	fast
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face5	own_loss	positive	4647	4	47	Köln	Stuttgart	loss	own	slow
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face6	opp_win	negative	2308	-36	8	Heidenheim	Hoffenheim	win	opponent	slow
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face7	opp_loss	positive	3795	12	70	Augsburg	RB Leipzig	loss	opponent	slow
+198	6a1428b0fb42bfe8f32ce6b5	1	1	1	male	42	1	1	interview	svw	complete	face8	own_win	positive	2790	17	5	St. Pauli	Union Berlin	win	own	slow
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face1	opp_win	negative	23875	-37	-26	Wolfsburg	Borussia Möchengladbach	win	opponent	slow
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face2	own_loss	negative	6171	-35	0	Union Berlin	Eintracht Frankfurt	loss	own	fast
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face3	opp_loss	positive	3894	47	25	St. Pauli	Mainz 05	loss	opponent	fast
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face4	own_win	positive	10094	22	-4	Augsburg	Bayer Leverkusen	win	own	fast
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face5	opp_loss	positive	17565	-57	55	Heidenheim	Borussia Dortmund	loss	opponent	slow
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face6	opp_win	negative	19693	25	40	Stuttgart	Köln	win	opponent	slow
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face7	own_win	positive	26967	39	-29	Freiburg	Bayern München	win	own	slow
+199	6a12c2f1fc710aaa945aa0df	1	1	1	male	20	1	1	interview	rbl	complete	face8	own_loss	negative	3478	-59	-26	Hoffenheim	Hamburg	loss	own	fast
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face1	own_win	positive	1713	1	9	Bayern München	Mainz 05	win	own	slow
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face2	own_win	positive	1386	8	17	RB Leipzig	Union Berlin	win	own	fast
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face3	opp_win	positive	1066	-9	16	Hoffenheim	Augsburg	win	opponent	fast
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face4	opp_loss	positive	1569	-15	15	St. Pauli	Wolfsburg	loss	opponent	slow
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face5	opp_win	positive	1403	-10	12	Stuttgart	Hamburg	win	opponent	slow
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face6	own_loss	positive	1460	3	18	Köln	Bayer Leverkusen	loss	own	slow
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face7	opp_loss	positive	1217	-10	25	Borussia Möchengladbach	Borussia Dortmund	loss	opponent	fast
+200	69429f52783b852351a68323	1	1	1	male	33	1	1	interview	svw	complete	face8	own_loss	positive	1337	-1	14	Freiburg	Heidenheim	loss	own	fast
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face1	own_win	negative	1469	-66	-81	Union Berlin	Freiburg	win	own	slow
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face2	opp_loss	negative	1796	-2	-17	Borussia Möchengladbach	Augsburg	loss	opponent	slow
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face3	own_loss	positive	1620	45	-12	Bayern München	Eintracht Frankfurt	loss	own	slow
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face4	opp_loss	positive	1854	43	68	Hoffenheim	RB Leipzig	loss	opponent	slow
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face5	own_loss	negative	1054	-67	-41	Heidenheim	St. Pauli	loss	own	fast
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face6	opp_win	positive	1202	28	-2	Köln	Mainz 05	win	opponent	fast
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face7	own_win	negative	1168	-51	-77	Hamburg	Bayer Leverkusen	win	own	fast
+201	69c00faddac8b6195a6fe499	1	1	1	female	49	1	1	interview	vfl	complete	face8	opp_win	negative	1395	-53	-27	Werder Bremen	Stuttgart	win	opponent	fast
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face1	opp_win	positive	2038	93	42	Union Berlin	St. Pauli	win	opponent	fast
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face2	opp_win	positive	5963	59	60	Borussia Dortmund	Wolfsburg	win	opponent	slow
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face3	own_loss	positive	1224	95	38	Werder Bremen	Stuttgart	loss	own	fast
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face4	opp_loss	positive	1765	45	57	Bayer Leverkusen	Freiburg	loss	opponent	fast
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face5	own_win	positive	2038	100	52	RB Leipzig	Eintracht Frankfurt	win	own	fast
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face6	own_loss	positive	2096	55	47	Augsburg	Mainz 05	loss	own	slow
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face7	opp_loss	positive	2284	1	33	Bayern München	Hoffenheim	loss	opponent	slow
+202	6a0f20cc13a6d3f764cb958c	1	1	1	female	45	1	1	interview	koe	complete	face8	own_win	positive	3082	100	58	Borussia Möchengladbach	Hamburg	win	own	slow
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face1	opp_loss	negative	22288	-52	-21	Hamburg	Stuttgart	loss	opponent	slow
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face2	opp_win	positive	13281	38	58	Freiburg	Eintracht Frankfurt	win	opponent	fast
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face3	opp_loss	negative	8273	-70	-38	Heidenheim	Werder Bremen	loss	opponent	fast
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face4	own_loss	positive	12155	-47	15	Borussia Dortmund	Mainz 05	loss	own	fast
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face5	own_win	positive	16428	37	29	Hoffenheim	Wolfsburg	win	own	slow
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face6	own_loss	negative	11005	-21	-17	St. Pauli	Köln	loss	own	fast
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face7	opp_win	positive	16103	25	61	Borussia Möchengladbach	Bayer Leverkusen	win	opponent	slow
+203	6a09b56fff7d2075e8007e04	1	1	1	female	24	1	1	interview	rbl	complete	face8	own_win	positive	15641	43	52	Augsburg	Bayern München	win	own	slow
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face1	opp_loss	positive	1744	-33	1	Eintracht Frankfurt	Wolfsburg	loss	opponent	slow
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face2	own_win	positive	720	-64	-7	Bayer Leverkusen	Bayern München	win	own	fast
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face3	own_loss	positive	2184	-24	-1	Hamburg	Stuttgart	loss	own	slow
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face4	opp_win	positive	3678	1	-9	Augsburg	Mainz 05	win	opponent	slow
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face5	opp_loss	positive	941	-8	-17	Borussia Dortmund	St. Pauli	loss	opponent	fast
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face6	own_win	negative	950	-14	-4	Heidenheim	Werder Bremen	win	own	fast
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face7	opp_win	negative	852	2	-8	Hoffenheim	Freiburg	win	opponent	fast
+206	6a06b5c130298a45abfa7386	1	1	1	female	36	1	1	interview	fcu	complete	face8	own_loss	negative	1004	-67	-3	Köln	Borussia Möchengladbach	loss	own	slow
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face1	opp_win	negative	9054	9	-3	RB Leipzig	Eintracht Frankfurt	win	opponent	slow
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face2	own_loss	negative	2519	-78	-39	Mainz 05	Köln	loss	own	slow
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face3	opp_loss	positive	1899	30	13	Union Berlin	Wolfsburg	loss	opponent	fast
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face4	opp_win	negative	1881	-75	-24	Werder Bremen	Borussia Möchengladbach	win	opponent	fast
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face5	own_win	positive	1917	58	68	Hoffenheim	Bayer Leverkusen	win	own	fast
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face6	own_loss	negative	1671	-96	-55	Augsburg	Hamburg	loss	own	fast
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face7	opp_loss	positive	2350	78	48	Stuttgart	Borussia Dortmund	loss	opponent	slow
+207	69e27acfbe9942ed954f8aa9	1	1	1	female	49	1	1	interview	fcb	complete	face8	own_win	positive	2118	71	66	Heidenheim	Freiburg	win	own	slow
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face1	own_loss	negative	3009	-19	-12	Hoffenheim	St. Pauli	loss	own	slow
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face2	opp_loss	positive	1994	34	5	Augsburg	Köln	loss	opponent	fast
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face3	own_win	positive	1573	31	13	Bayer Leverkusen	Freiburg	win	own	fast
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face4	own_win	positive	2129	59	2	Bayern München	Hamburg	win	own	fast
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face5	own_loss	negative	2352	-51	8	Union Berlin	Eintracht Frankfurt	loss	own	slow
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face6	opp_loss	positive	3427	9	-7	RB Leipzig	Stuttgart	loss	opponent	slow
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face7	opp_win	negative	2181	34	18	Werder Bremen	Wolfsburg	win	opponent	fast
+208	69cee596b51effae0848d125	1	1	1	male	32	1	1	interview	bvb	complete	face8	opp_win	positive	4358	40	10	Mainz 05	Borussia Möchengladbach	win	opponent	slow
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face1	opp_win	positive	4982	29	14	Hamburg	Stuttgart	win	opponent	slow
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face2	own_loss	positive	1432	25	-1	Borussia Dortmund	Hoffenheim	loss	own	fast
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face3	opp_loss	positive	1542	73	38	Heidenheim	Werder Bremen	loss	opponent	fast
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face4	opp_win	positive	1573	100	100	RB Leipzig	Mainz 05	win	opponent	fast
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face5	own_win	negative	2159	-66	-29	Wolfsburg	Augsburg	win	own	slow
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face6	own_loss	negative	2635	-32	-1	St. Pauli	Köln	loss	own	slow
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face7	opp_loss	positive	2238	39	8	Borussia Möchengladbach	Union Berlin	loss	opponent	slow
+210	69ebbf650908c118c8628b4a	1	1	1	female	32	1	1	interview	sge	complete	face8	own_win	negative	1503	-60	-32	Freiburg	Bayer Leverkusen	win	own	fast
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face1	own_loss	positive	2645	11	24	Wolfsburg	Mainz 05	loss	own	fast
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face2	opp_win	positive	2146	27	50	Eintracht Frankfurt	Hoffenheim	win	opponent	fast
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face3	opp_loss	positive	1694	31	35	Bayer Leverkusen	Köln	loss	opponent	fast
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face4	own_loss	positive	2129	57	51	RB Leipzig	Hamburg	loss	own	fast
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face5	own_win	negative	3143	5	17	Borussia Dortmund	St. Pauli	win	own	slow
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face6	own_win	negative	4216	-23	1	Union Berlin	Heidenheim	win	own	slow
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face7	opp_loss	negative	3895	-31	5	Augsburg	Werder Bremen	loss	opponent	slow
+211	6a0c84f3469da99c34e4c332	1	1	1	male	27	1	1	interview	fcb	complete	face8	opp_win	positive	4448	25	28	Borussia Möchengladbach	Freiburg	win	opponent	slow
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face1	own_loss	negative	3057	-67	-70	St. Pauli	RB Leipzig	loss	own	slow
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face2	own_win	positive	2909	48	3	Bayer Leverkusen	Eintracht Frankfurt	win	own	slow
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face3	opp_loss	positive	2732	69	32	Hoffenheim	Heidenheim	loss	opponent	fast
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face4	opp_win	positive	4671	-23	18	Stuttgart	Augsburg	win	opponent	slow
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face5	own_loss	positive	3127	65	96	Köln	Mainz 05	loss	own	slow
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face6	own_win	negative	2078	37	36	Freiburg	Borussia Möchengladbach	win	own	fast
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face7	opp_win	negative	2441	-11	39	Hamburg	Wolfsburg	win	opponent	fast
+213	69e3cdb1ee5d900ad3bd4904	1	1	1	male	24	1	1	interview	fcb	complete	face8	opp_loss	negative	2444	-30	-33	Werder Bremen	Borussia Dortmund	loss	opponent	fast
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face1	opp_win	negative	992	-82	-66	Wolfsburg	St. Pauli	win	opponent	fast
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face2	opp_loss	negative	1493	-26	-9	Mainz 05	Hoffenheim	loss	opponent	fast
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face3	own_loss	positive	4014	2	10	Borussia Möchengladbach	Augsburg	loss	own	slow
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face4	own_loss	positive	1195	33	17	Hamburg	Werder Bremen	loss	own	fast
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face5	opp_loss	positive	1970	26	70	Eintracht Frankfurt	Köln	loss	opponent	slow
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face6	opp_win	negative	2158	1	-36	Union Berlin	Stuttgart	win	opponent	slow
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face7	own_win	positive	1697	26	16	Freiburg	RB Leipzig	win	own	slow
+214	5e94aa8e11d9b92eff5f1a16	1	1	1	male	31	1	1	interview	fcb	complete	face8	own_win	positive	1311	63	61	Borussia Dortmund	Heidenheim	win	own	fast
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face1	opp_win	positive	1138	25	22	Mainz 05	Hamburg	win	opponent	fast
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face2	opp_win	positive	1527	83	59	Borussia Möchengladbach	Köln	win	opponent	slow
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face3	own_win	positive	1387	20	41	Augsburg	Eintracht Frankfurt	win	own	fast
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face4	opp_loss	negative	2312	0	100	Freiburg	Heidenheim	loss	opponent	slow
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face5	opp_loss	negative	877	-25	-26	Union Berlin	Hoffenheim	loss	opponent	fast
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face6	own_loss	positive	5573	100	17	Wolfsburg	Werder Bremen	loss	own	slow
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face7	own_win	negative	951	52	100	RB Leipzig	Bayer Leverkusen	win	own	fast
+216	69ca15db494ca3f4439f041b	1	1	1	female	20	1	1	interview	bvb	complete	face8	own_loss	positive	1834	-100	-68	Bayern München	Stuttgart	loss	own	slow
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face1	own_loss	negative	9525	-58	-3	Werder Bremen	Stuttgart	loss	own	slow
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face2	own_loss	positive	3925	77	17	Heidenheim	Augsburg	loss	own	fast
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face3	opp_win	positive	11644	66	38	Hamburg	Eintracht Frankfurt	win	opponent	slow
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face4	opp_loss	positive	4536	7	51	RB Leipzig	Freiburg	loss	opponent	fast
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face5	own_win	positive	4969	49	68	Borussia Möchengladbach	Mainz 05	win	own	fast
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face6	own_win	positive	7127	63	50	Bayern München	St. Pauli	win	own	slow
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face7	opp_win	negative	3683	-47	23	Borussia Dortmund	Union Berlin	win	opponent	fast
+217	6981069b107c97c678d1d267	1	1	1	male	39	1	1	interview	b04	complete	face8	opp_loss	positive	13290	19	-13	Hoffenheim	Wolfsburg	loss	opponent	slow
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face1	own_win	positive	1178	93	84	Hamburg	Heidenheim	win	own	fast
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face2	own_loss	positive	1250	40	34	Bayer Leverkusen	Wolfsburg	loss	own	fast
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face3	opp_loss	negative	1356	-59	23	Köln	Union Berlin	loss	opponent	slow
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face4	own_win	negative	1201	-50	23	Bayern München	Freiburg	win	own	fast
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face5	opp_win	negative	1262	-73	-63	Eintracht Frankfurt	Augsburg	win	opponent	slow
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face6	opp_loss	positive	1245	38	82	Borussia Möchengladbach	Werder Bremen	loss	opponent	fast
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face7	own_loss	negative	1580	-37	1	RB Leipzig	Hoffenheim	loss	own	slow
+218	69fdee3a1b9d19b9e6f28551	1	1	1	diverse	34	1	1	interview	bvb	complete	face8	opp_win	negative	3470	-37	-43	Stuttgart	Mainz 05	win	opponent	slow
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face1	opp_loss	negative	1713	-24	-27	Borussia Möchengladbach	RB Leipzig	loss	opponent	fast
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face2	own_win	positive	1947	54	74	Hoffenheim	Heidenheim	win	own	fast
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face3	own_win	positive	5797	66	82	Wolfsburg	Borussia Dortmund	win	own	slow
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face4	opp_loss	positive	2061	51	64	Köln	Hamburg	loss	opponent	slow
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face5	own_loss	positive	2199	51	100	Bayer Leverkusen	Mainz 05	loss	own	slow
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face6	own_loss	positive	1561	56	92	Union Berlin	Augsburg	loss	own	fast
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face7	opp_win	positive	2191	66	92	St. Pauli	Freiburg	win	opponent	slow
+219	6a0c7f9af0d56994c1f63c96	1	1	1	male	25	1	1	interview	sge	complete	face8	opp_win	positive	1353	65	92	Stuttgart	Bayern München	win	opponent	fast
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face1	opp_win	positive	2089	68	83	Heidenheim	Borussia Dortmund	win	opponent	slow
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face2	opp_loss	positive	999	97	79	Union Berlin	Bayer Leverkusen	loss	opponent	fast
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face3	own_win	positive	1179	61	50	Hamburg	Freiburg	win	own	fast
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face4	opp_win	negative	4329	53	44	Mainz 05	Hoffenheim	win	opponent	slow
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face5	own_loss	positive	2444	-86	-100	Werder Bremen	Borussia Möchengladbach	loss	own	slow
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face6	own_win	negative	1340	-44	62	Köln	Augsburg	win	own	fast
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face7	opp_loss	negative	3260	-22	-93	RB Leipzig	Stuttgart	loss	opponent	slow
+220	69c1a1f9e2e8e0ebc2f203a0	1	1	1	male	30	1	1	interview	sge	complete	face8	own_loss	negative	1294	-52	25	St. Pauli	Bayern München	loss	own	fast
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face1	opp_win	negative	660	-100	-85	Bayern München	Heidenheim	win	opponent	fast
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face2	own_win	positive	1053	-24	-41	Freiburg	Eintracht Frankfurt	win	own	fast
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face3	own_loss	positive	2247	1	19	Union Berlin	Hoffenheim	loss	own	slow
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face4	own_win	positive	2351	-36	-46	Borussia Möchengladbach	Borussia Dortmund	win	own	slow
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face5	opp_win	negative	1083	18	19	Hamburg	Köln	win	opponent	fast
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face6	opp_loss	positive	689	-66	-82	Wolfsburg	Mainz 05	loss	opponent	fast
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face7	opp_loss	negative	1136	-82	-62	Bayer Leverkusen	St. Pauli	loss	opponent	slow
+221	615452aaabb932ada88ef3ca	1	1	1	male	36	1	1	interview	svw	complete	face8	own_loss	negative	1218	-65	-52	Augsburg	RB Leipzig	loss	own	slow
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face1	own_loss	positive	2362	42	34	Bayer Leverkusen	Hoffenheim	loss	own	slow
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face2	opp_loss	positive	1051	88	38	Eintracht Frankfurt	Stuttgart	loss	opponent	fast
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face3	opp_loss	positive	1146	22	15	Borussia Möchengladbach	Augsburg	loss	opponent	fast
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face4	opp_win	negative	953	-43	-12	Köln	Heidenheim	win	opponent	fast
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face5	own_loss	negative	1024	-90	-71	Freiburg	Union Berlin	loss	own	fast
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face6	opp_win	negative	1310	-68	-35	RB Leipzig	Borussia Dortmund	win	opponent	slow
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face7	own_win	positive	4272	-43	-17	Werder Bremen	Mainz 05	win	own	slow
+222	6a088e5e4c882f580f2dccd8	1	1	1	male	29	1	1	interview	fcb	complete	face8	own_win	negative	1395	-66	-17	St. Pauli	Hamburg	win	own	slow
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face1	opp_win	negative	1114	-100	-100	Stuttgart	Bayer Leverkusen	win	opponent	fast
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face2	own_win	positive	1260	100	100	Heidenheim	Freiburg	win	own	fast
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face3	opp_win	negative	1456	-68	-100	Eintracht Frankfurt	Mainz 05	win	opponent	slow
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face4	opp_loss	positive	1203	-5	100	St. Pauli	Borussia Dortmund	loss	opponent	fast
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face5	own_loss	negative	1810	-100	-100	Borussia Möchengladbach	Union Berlin	loss	own	slow
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face6	own_loss	negative	1482	-100	-100	Bayern München	Werder Bremen	loss	own	slow
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face7	own_win	positive	1430	100	100	Köln	Augsburg	win	own	slow
+224	6a09e7488aa4eb216f1b3320	1	1	1	male	34	1	1	interview	hsv	complete	face8	opp_loss	positive	1045	74	94	RB Leipzig	Wolfsburg	loss	opponent	fast
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face1	opp_win	negative	2557	-30	9	Hamburg	Stuttgart	win	opponent	slow
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face2	own_win	positive	1895	27	16	Werder Bremen	Köln	win	own	slow
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face3	own_loss	positive	1817	20	8	Eintracht Frankfurt	Borussia Dortmund	loss	own	fast
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face4	own_win	positive	1211	37	2	Borussia Möchengladbach	Hoffenheim	win	own	fast
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face5	opp_win	negative	1831	-34	2	Mainz 05	Bayern München	win	opponent	fast
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face6	opp_loss	positive	2136	20	8	Wolfsburg	Union Berlin	loss	opponent	slow
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face7	opp_loss	negative	1704	-32	-6	Bayer Leverkusen	Augsburg	loss	opponent	fast
+225	5b0a869f1e55760001b93fa3	1	1	1	male	42	1	1	interview	scf	complete	face8	own_loss	negative	2631	-33	-3	Heidenheim	RB Leipzig	loss	own	slow
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face1	opp_win	negative	3434	-36	-19	St. Pauli	Hamburg	win	opponent	slow
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face2	own_loss	positive	1649	5	41	Heidenheim	Augsburg	loss	own	fast
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face3	opp_loss	positive	883	100	63	Hoffenheim	Borussia Dortmund	loss	opponent	fast
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face4	opp_loss	negative	1789	-24	9	Bayer Leverkusen	RB Leipzig	loss	opponent	fast
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face5	own_loss	negative	2683	-83	49	Freiburg	Eintracht Frankfurt	loss	own	slow
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face6	own_win	positive	1770	43	100	Stuttgart	Wolfsburg	win	own	fast
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face7	own_win	positive	2473	2	23	Borussia Möchengladbach	Mainz 05	win	own	slow
+226	6a063a8f4f1f7193cd52b3f0	1	1	1	male	31	1	1	interview	fcb	complete	face8	opp_win	positive	2739	73	86	Werder Bremen	Union Berlin	win	opponent	slow

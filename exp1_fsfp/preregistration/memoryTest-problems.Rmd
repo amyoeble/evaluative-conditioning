@@ -1,0 +1,45 @@
+## Problems with the memory test (or rather, with exclusions based on the 
+#   memory test)
+
+(1) Learning experiment
+    - People who have memory rates < 50 % have in fact learned something
+    - Stimuli have (possibly) contradicting features
+    - If at all, memory rates of ~ 50 % would be problematic
+
+(2) Information integration:
+    - People are told to form an attitude regarding brands (logos)
+    - Best participants are probably those that integrate information
+    - If integration is successful, there is no memory for the qualifiers
+
+    => We would probably lose more people in the apply condition as one would
+       expect information integration to be more likely there
+    => Compensation of these selective dropouts by naturally lower importance of
+       and therefore worse memory for qualifiers in ignore condition
+
+(3) Interindividual differences in "true" p_c, p_u, and a parameters / reliance
+    on the different strategies
+    - Forgetting the qualifiers is probably most likely when evaluations are not
+      formed via propositions, but associative
+    - Selective dropouts of people that rely more on associative process
+       
+    => Artefactual decrease of a estimate
+    => Potential in- or deflation of p_c and p_u
+    => Worse model fit
+
+# However: Bading et al. (2025): 
+  "better memory for assimilative than for contrastive propositions 
+   produces inflated C parameter estimates (in comparison to the actual 
+   size of the co-occurrence effect)..."
+    - This statement is made only for "apply" condition. Here, for us, the
+      propositional processes cannot be distinguished, i.e. (roughly) an
+      inflation of c corresponds to an inflation of a for us?!
+
+  "strongly inflated C parameters when overall memory levels are high, 
+   but produce only weakly inflated C parameter estimates when overall 
+   memory levels are low"
+    - We have low memory rates (speaking in terms of random guessing, at least)
+
+
+## Empirical argument
+  valence accuracy ~ memory
+    -> memory should not predict correct attitude formation

@@ -1,0 +1,27 @@
+# Saved variables in Exp. 1
+
+subject: participant ID (manually entered by experimenter) 
+
+context: between-subjects factor, if relational qualifier should be applied or ignored (apply, ignore)
+
+index: index of CS (as used by software)
+
+practiceFail: whether the participant failed the practice trials (i.e., 3 runs/trials wrong) and has to be excluded (1 = failed/exclude, 0 = passed/include)
+
+USvalence: US valence (positive, negative)
+
+relation: relational qualifier (foerdert = inclusion/standard, verhindert = exclusion/reversal)
+
+CSstim: image file of CS logo
+
+prerating: prerating of CS
+
+attitude: categorical postrating of CS (angenehm = pleasant/positive, unangenehm = unpleasant/negative)
+
+attitudeRT: latency of categorical postrating                                       
+
+postrating: continuous postrating of CS
+
+memory: response in memory task, i.e., the remembered relational qualifier (foerdert, verhindert)
+
+memoryRT: latency of response in memory task 
